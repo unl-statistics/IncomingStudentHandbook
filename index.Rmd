@@ -1,0 +1,47 @@
+--- 
+title: "Incoming Graduate Students"
+subtitle: "Department of Statistics, University of Nebraska - Lincoln"
+author: "Statistics Graduate Student Association"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output: 
+  bookdown::gitbook
+fontsize: 12pt
+linestretch: 1.25
+geometry: "left=3cm, right=3cm, top=2.5cm, bottom=2.5cm"
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a document aimed to provide useful information to incoming graduate students in the Department of Statistics at University of Nebraska - Lincoln."
+---
+
+# Welcome
+
+As current statistics graduate students at University of Nebraska, Lincoln, we wanted to welcome you to the department. We hope this document is useful as you prepare to move to Lincoln and/or start graduaute school this upcoming Fall. 
+
+- Department Website: *https://statistics.unl.edu/*
+
+Most questions regarding the program should be directed to the Department Secretary:
+
+- Alison Reckewey
+    - *areckewey2@unl.edu*
+
+If you have other questions, the Statistics Graduate Student Association (GSA) will do their best to provide assistance: 
+
+- Alison Kleffner (President)
+    - *akleffner@huskers.unl.edu*
+- Rachel Rogers (Vice-President)
+    - *rachel.rogers@huskers.unl.edu*
+- Oliver Titus (Treasurer)
+    - *otitus2@huskers.unl.edu*
+
+We look forward to meeting you!
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
