@@ -15,7 +15,7 @@ Link to the NCard website to fill out application and read full list of places i
 
 
 ## Bus Pass
-All students that pay student fees will receive a mobile bus pass for the academic school year. The StarTran bus service connects City, East, and the Nebraska Innovation campuses and is covered in the student fees. Instructions on how to download this mobile bus pass should be sent out in an email towards the beginning of the semester, but also can be found on the UNL parking services website (\href{https://parking.unl.edu/bus-riders-user-guide#student-pass}{Click Here}) for instructions. 
+All students that pay student fees will receive a mobile bus pass for the academic school year. The StarTran bus service connects City, East, and the Nebraska Innovation campuses and is covered in the student fees. Instructions on how to download this mobile bus pass should be sent out in an email towards the beginning of the semester, but also can be found on the UNL parking services website (https://parking.unl.edu/bus-riders-user-guide#student-pass) for instructions. 
 
 There are four bus routes around the campuses:
 
@@ -24,20 +24,20 @@ There are four bus routes around the campuses:
 - Bus Route 24: Holdredge (Goes between east and city campus - clockwise)
 - Bus Route 25: Vine (Goes between east and city campus - counterclockwise)
 
-Route 24 and 25 runs every 10 minutes from 7am-6pm M-F and every 20 minutes from 6pm-9pm. A list of stops and the schedule can be found on the link below. From personal experience the buses tend to not be on schedule and tend to get clumped together, so when traveling between campuses make sure to take this into account.
+Route 24 and 25 runs every 10 minutes from 7am-6pm M-F and every 20 minutes from 6pm-9pm. A list of stops and the schedule can be found on the link below. Additionally, there is an on-call van service M-F for after hours. From personal experience the buses tend to not be on schedule and can get overly crowded at specific times, so when traveling between campuses make sure to take this into account.
 
-**This past year due to COVID-19, the busses were free and a bus pass was not required. I'm not quite sure if that will remain true for next school year, but the university will send an email closer to the beginning of the school year with that information** 
+**This past year due to COVID-19, a bus pass was not required. I'm not quite sure if that will remain true for next school year, but the university will send an email closer to the beginning of the school year with that information** 
 
-Bus Website: \href{https://parking.unl.edu/campus-bus-service}{Link Here}
+Bus Website: https://parking.unl.edu/campus-bus-service
 
 ## Parking Pass
 
 Due to the location of Hardin Hall (where the Statistic Offices and many of your classes will be), most students in the department do not purchase a parking pass and instead park in the neighborhoods across the street. 
 
-However, if you do decide you would like to purchase a parking pass, more information can be found here: \href{https://parking.unl.edu/}{Parking Pass Information}
+However, if you do decide you would like to purchase a parking pass, more information can be found here: https://parking.unl.edu/}{Parking Pass Information
 
 ## SAS License 
-SAS is a statistical software that if you are not familiar with quite yet, you soon will be as it is commonly used in your first semester of courses and throughout the program. In order to get this installed on your computer, first you must stop in and see Alison Reckewey in the statistics main office (Hardin 340) in order to pay the $65 license fee. This can be paid using your NCard once it is activated, check, or exact cash. After this is paid, you will need to take your computer to see Steve Westerholt in 342A Hardin Hall so he can install SAS on your computer. This may take awhile so make sure that you have a couple of hours where you will not need your laptop. Make sure you bring your power cord with you as well. Additionally, I would recommend doing this the week before classes start, as Steve tends to be busy with SAS renewals the first week of class that may cause a backup.
+SAS is a statistical software that if you are not familiar with quite yet, you soon will be as it is commonly used in your first semester of courses and throughout the program. In order to get this installed on your computer, first you must stop in and see Alison Reckewey in the statistics main office (Hardin 340) in order to pay the $65 license fee. This can be paid using your NCard once it is activated, check, or exact cash. After this is paid, you will need to take your computer to see Steve Westerholt in 342A Hardin Hall so he can install SAS on your computer. This may take awhile so make sure that you have a couple of hours where you will not need your laptop. Make sure you bring your power cord with you as well. Additionally, I would recommend doing this the week before classes start, as Steve tends to be busy with SAS renewals the first week of class that may cause a backup. Also there has been some students using SAS onDemand, which is free for students (though as SAS is something you will be using a lot at least through your first year, it is easier to use it using the license).
 
 Also as a heads up, SAS is easily installed on a PC, however if you have a MAC not as much. There are different options that Steve will brief you on when you give him your laptop. 
 
@@ -50,14 +50,15 @@ If you have a PC, Steve Westerholt will be able to easily connect you to one of 
 
 ## Student Fees
 
-Here is a list of the Mandatory Student Fees you should be aware of as listed on the Universities Website for the 2020-2021 academic year. I couldn't find next year's quite yet, but they should be roughly similiar:
+Here is a list of the Mandatory Student Fees you should be aware of as listed on the Universities Website for the 2021-2022 academic year:
 
 - Registration Fee - $20.00 (due each semester a student registers for classes)
 - Technology Fee - $11.00 per credit hour
 - ID Card Fee - $20.00 (One time fee assesed when pick up first NCard)
 - Library Fee - $6.25 per credit hour
-- University Program/Facilities Fee - $617.00
-- New International Graduate Fee - $70.00 (One-time fee due the first semester an international graduate student is enrolled)
+- University Program/Facilities Fee - $631.00
+- New International Graduate Fee - $150.00 (One-time fee due the first semester an international graduate student is enrolled)
+- International Graduate Student Fee - $70.00 (for every semester after the first)
 - There are also late fees for failing to pay you bill on time and if you register for classes late.
 
 Optional Student Fees (This is updated for the 2021-2022 Academic Year):
@@ -65,7 +66,7 @@ Optional Student Fees (This is updated for the 2021-2022 Academic Year):
 - Health Insurance Fall - $1392.74
 - Health Insurance Spring/Summer - $1930.42
 
-Graduate students are automatically enrolled in the health insurance plan, so if you have your own health insurance you can opt out (You have until sometime in September to do this and will have to prove that you have health insurance).
+Graduate students are automatically enrolled in the health insurance plan, so if you have your own health insurance you can opt out (You have until sometime in September to do this and will have to prove that you have health insurance). International students must be enrolled in university health insurance, cannot opt out most of the time for a personal insurance. Exceptions are rare and difficult to obtain. 
 
 If you have funding from the department, check your contract for a insurance coverage. It is common that included with an assistantship, a portion of the student health insurance premium will be covered.
 

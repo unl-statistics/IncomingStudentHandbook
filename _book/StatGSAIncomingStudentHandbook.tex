@@ -8,8 +8,8 @@
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
 \usepackage{setspace}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -38,7 +38,7 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
-  pdftitle={Incoming Graduate Students},
+  pdftitle={Incoming Graduate Students Info Packet},
   pdfauthor={Statistics Graduate Student Association},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
@@ -72,13 +72,13 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
 
-\title{Incoming Graduate Students}
+\title{Incoming Graduate Students Info Packet}
 \usepackage{etoolbox}
 \makeatletter
 \providecommand{\subtitle}[1]{% add subtitle to \maketitle
@@ -87,7 +87,7 @@
 \makeatother
 \subtitle{Department of Statistics, University of Nebraska - Lincoln}
 \author{Statistics Graduate Student Association}
-\date{2022-02-17}
+\date{2022-03-23}
 
 \begin{document}
 \maketitle
@@ -100,7 +100,7 @@
 \hypertarget{welcome}{%
 \chapter{Welcome}\label{welcome}}
 
-As current statistics graduate students at University of Nebraska, Lincoln, we wanted to welcome you to the department. We hope this document is useful as you prepare to move to Lincoln and/or start graduaute school this upcoming Fall.
+As current statistics graduate students at University of Nebraska, Lincoln, we wanted to welcome you to the department. We hope this document is useful as you prepare to move to Lincoln and/or start graduate school this upcoming Fall.
 
 \begin{itemize}
 \tightlist
@@ -152,6 +152,8 @@ If you have other questions, the Statistics Graduate Student Association (GSA) w
   \end{itemize}
 \end{itemize}
 
+Additionally, if you wanted to familiarize yourself with some of the faculty members, you many find the list at \url{https://statistics.unl.edu/meet-faculty}, with links to bios.
+
 We look forward to meeting you!
 
 \hypertarget{classes}{%
@@ -160,7 +162,7 @@ We look forward to meeting you!
 \hypertarget{course-schedule}{%
 \section{Course Schedule}\label{course-schedule}}
 
-A full-time graduate student typically takes about 9 credits per semester. This summer you will need to register for your Fall 2021 courses. Your first semester courses are already selected for you with flexibility in electives later on in the program. During this upcoming semester, you will want to make sure you are registered for:
+A full-time graduate student typically takes about 9 credits per semester. This summer you will need to register for your Fall 2021 courses. Typically first semester courses are already selected for you with flexibility in electives later on in the program. During this upcoming semester, you will want to make sure you are registered for:
 
 \begin{itemize}
 \tightlist
@@ -182,6 +184,8 @@ If you will have a Graduate Teaching Assistantship (GTA) you will also need to r
   Stat 892: TA Prep (1 Credit)
 \end{itemize}
 
+There are instances (for example if you already came in with a Master's in Statistics), where you may be able to waive some of these first semester courses and take other courses (though from my experience this is very rare). Please contact Dr.~Bert Clarke or Dr.~Steve Kachman for more details on this.
+
 \hypertarget{registration}{%
 \section{Registration}\label{registration}}
 
@@ -194,7 +198,7 @@ The books that you will need can also be found in MYRED. Please make sure you bu
 \hypertarget{international-student-training}{%
 \section{International Student Training}\label{international-student-training}}
 
-International graduate students for whom English is not their native language and who expect to receive instructional assignments must successfully complete the Institute for International Teaching Assistants. It is a requirement of your TA if you are an international student. The 2021 dates for this is August 2 to August 13, and regristration but be submitted no later than June 30, 2021. Information on how to apply and what you should expect to learn in this training program can be found at: \url{https://www.unl.edu/gradstudies/professional-development/ita}
+International graduate students for whom English is not their native language (and did not previously graduate with a degree from an university that teaches English) and who expect to receive instructional assignments must successfully complete the Institute for International Teaching Assistants. It is a requirement of your TA if you are an international student. The 2022 dates for this is August 1 to August 12, and registration must be submitted no later than June 30, 2022. Information on how to apply and what you should expect to learn in this training program can be found at: \url{https://www.unl.edu/gradstudies/professional-development/ita}
 
 \hypertarget{unl}{%
 \chapter{University of Nebraska}\label{unl}}
@@ -223,7 +227,7 @@ Link to the NCard website to fill out application and read full list of places i
 \hypertarget{bus-pass}{%
 \section{Bus Pass}\label{bus-pass}}
 
-All students that pay student fees will receive a mobile bus pass for the academic school year. The StarTran bus service connects City, East, and the Nebraska Innovation campuses and is covered in the student fees. Instructions on how to download this mobile bus pass should be sent out in an email towards the beginning of the semester, but also can be found on the UNL parking services website (\href{https://parking.unl.edu/bus-riders-user-guide#student-pass}{Click Here}) for instructions.
+All students that pay student fees will receive a mobile bus pass for the academic school year. The StarTran bus service connects City, East, and the Nebraska Innovation campuses and is covered in the student fees. Instructions on how to download this mobile bus pass should be sent out in an email towards the beginning of the semester, but also can be found on the UNL parking services website (\url{https://parking.unl.edu/bus-riders-user-guide\#student-pass}) for instructions.
 
 There are four bus routes around the campuses:
 
@@ -239,23 +243,23 @@ There are four bus routes around the campuses:
   Bus Route 25: Vine (Goes between east and city campus - counterclockwise)
 \end{itemize}
 
-Route 24 and 25 runs every 10 minutes from 7am-6pm M-F and every 20 minutes from 6pm-9pm. A list of stops and the schedule can be found on the link below. From personal experience the buses tend to not be on schedule and tend to get clumped together, so when traveling between campuses make sure to take this into account.
+Route 24 and 25 runs every 10 minutes from 7am-6pm M-F and every 20 minutes from 6pm-9pm. A list of stops and the schedule can be found on the link below. Additionally, there is an on-call van service M-F for after hours. From personal experience the buses tend to not be on schedule and can get overly crowded at specific times, so when traveling between campuses make sure to take this into account.
 
-\textbf{This past year due to COVID-19, the busses were free and a bus pass was not required. I'm not quite sure if that will remain true for next school year, but the university will send an email closer to the beginning of the school year with that information}
+\textbf{This past year due to COVID-19, a bus pass was not required. I'm not quite sure if that will remain true for next school year, but the university will send an email closer to the beginning of the school year with that information}
 
-Bus Website: \href{https://parking.unl.edu/campus-bus-service}{Link Here}
+Bus Website: \url{https://parking.unl.edu/campus-bus-service}
 
 \hypertarget{parking-pass}{%
 \section{Parking Pass}\label{parking-pass}}
 
 Due to the location of Hardin Hall (where the Statistic Offices and many of your classes will be), most students in the department do not purchase a parking pass and instead park in the neighborhoods across the street.
 
-However, if you do decide you would like to purchase a parking pass, more information can be found here: \href{https://parking.unl.edu/}{Parking Pass Information}
+However, if you do decide you would like to purchase a parking pass, more information can be found here: \url{https://parking.unl.edu/}\}\{Parking Pass Information
 
 \hypertarget{sas-license}{%
 \section{SAS License}\label{sas-license}}
 
-SAS is a statistical software that if you are not familiar with quite yet, you soon will be as it is commonly used in your first semester of courses and throughout the program. In order to get this installed on your computer, first you must stop in and see Alison Reckewey in the statistics main office (Hardin 340) in order to pay the \$65 license fee. This can be paid using your NCard once it is activated, check, or exact cash. After this is paid, you will need to take your computer to see Steve Westerholt in 342A Hardin Hall so he can install SAS on your computer. This may take awhile so make sure that you have a couple of hours where you will not need your laptop. Make sure you bring your power cord with you as well. Additionally, I would recommend doing this the week before classes start, as Steve tends to be busy with SAS renewals the first week of class that may cause a backup.
+SAS is a statistical software that if you are not familiar with quite yet, you soon will be as it is commonly used in your first semester of courses and throughout the program. In order to get this installed on your computer, first you must stop in and see Alison Reckewey in the statistics main office (Hardin 340) in order to pay the \$65 license fee. This can be paid using your NCard once it is activated, check, or exact cash. After this is paid, you will need to take your computer to see Steve Westerholt in 342A Hardin Hall so he can install SAS on your computer. This may take awhile so make sure that you have a couple of hours where you will not need your laptop. Make sure you bring your power cord with you as well. Additionally, I would recommend doing this the week before classes start, as Steve tends to be busy with SAS renewals the first week of class that may cause a backup. Also there has been some students using SAS onDemand, which is free for students (though as SAS is something you will be using a lot at least through your first year, it is easier to use it using the license).
 
 Also as a heads up, SAS is easily installed on a PC, however if you have a MAC not as much. There are different options that Steve will brief you on when you give him your laptop.
 
@@ -272,7 +276,7 @@ If you have a PC, Steve Westerholt will be able to easily connect you to one of 
 \hypertarget{student-fees}{%
 \section{Student Fees}\label{student-fees}}
 
-Here is a list of the Mandatory Student Fees you should be aware of as listed on the Universities Website for the 2020-2021 academic year. I couldn't find next year's quite yet, but they should be roughly similiar:
+Here is a list of the Mandatory Student Fees you should be aware of as listed on the Universities Website for the 2021-2022 academic year:
 
 \begin{itemize}
 \tightlist
@@ -285,9 +289,11 @@ Here is a list of the Mandatory Student Fees you should be aware of as listed on
 \item
   Library Fee - \$6.25 per credit hour
 \item
-  University Program/Facilities Fee - \$617.00
+  University Program/Facilities Fee - \$631.00
 \item
-  New International Graduate Fee - \$70.00 (One-time fee due the first semester an international graduate student is enrolled)
+  New International Graduate Fee - \$150.00 (One-time fee due the first semester an international graduate student is enrolled)
+\item
+  International Graduate Student Fee - \$70.00 (for every semester after the first)
 \item
   There are also late fees for failing to pay you bill on time and if you register for classes late.
 \end{itemize}
@@ -302,7 +308,7 @@ Optional Student Fees (This is updated for the 2021-2022 Academic Year):
   Health Insurance Spring/Summer - \$1930.42
 \end{itemize}
 
-Graduate students are automatically enrolled in the health insurance plan, so if you have your own health insurance you can opt out (You have until sometime in September to do this and will have to prove that you have health insurance).
+Graduate students are automatically enrolled in the health insurance plan, so if you have your own health insurance you can opt out (You have until sometime in September to do this and will have to prove that you have health insurance). International students must be enrolled in university health insurance, cannot opt out most of the time for a personal insurance. Exceptions are rare and difficult to obtain.
 
 If you have funding from the department, check your contract for a insurance coverage. It is common that included with an assistantship, a portion of the student health insurance premium will be covered.
 
@@ -341,7 +347,7 @@ Within walking distance of the department (East Campus)
   \begin{itemize}
   \tightlist
   \item
-    Can't find contact, but if you google it, a handful of apartment finder websites pop up.
+    Contact: Brian Craft at \href{mailto:Brian@rentbhg.com}{\nolinkurl{Brian@rentbhg.com}} (can also google, and things should pop up)
   \end{itemize}
 \item
   3405 Holdrege Street, Shack LLC, owned by Beth Gaylord (Very Clean apartments, 2 mins walk to the department)
@@ -379,7 +385,7 @@ Nearby East Campus (Could walk, but might be a little longer walk)
   \begin{itemize}
   \tightlist
   \item
-    \url{http://www.square48.com/}
+    \url{https://www.squareat48.com/}
   \end{itemize}
 \item
   Ashley Square Apartments (Easy walk, but might be chilly in the winter)
@@ -409,7 +415,7 @@ Not within walking distance of the department, but nearby (East Campus)
   \begin{itemize}
   \tightlist
   \item
-    \url{https://www.chateaudev.com/search?beds=bed-1\&baths=bath-1\&rentMax=850}
+    \url{https://www.chateaudev.com/}
   \end{itemize}
 \item
   Tanglewood (No bus directly to East Campus, bus goes directly to City Campus only)
@@ -435,6 +441,38 @@ Not within walking distance of the department, but nearby (East Campus)
   \item
     \url{https://www.ldflats.com/}
   \end{itemize}
+\item
+  Cheever Apartments
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \url{https://www.cheeverproperties.com/cheever-apartments/index.aspx}
+  \end{itemize}
+\item
+  The Fairways at Lincoln
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \url{https://www.hpifairwayslincoln.com/}
+  \end{itemize}
+\item
+  The 50/50 - seems to be college living not associated with the university (and seemingly nicer apartments). You'll get assigned roommates if you don't have them already.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \url{https://www.the50-50.com/}
+  \end{itemize}
+\item
+  Telegraph Distict (new and fancy, but Allo internet included in the rent)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \url{https://www.telegraphdistrict.com/}
+  \end{itemize}
 \end{itemize}
 
 Other possible companies to contact
@@ -449,17 +487,11 @@ Other possible companies to contact
   Century Sales and Management
 \item
   WRK Real Estate (35 East close to campus and Canopy Lofts downtown)
-\item
-  Telegraph Distict (new and fancy, but Allo internet included in the rent)
-
-  \begin{itemize}
-  \tightlist
-  \item
-    \url{https://www.telegraphdistrict.com/}
-  \end{itemize}
 \end{itemize}
 
-Most students seemed to have found an apartment by just googling ``apartments in Lincoln'', or looking through apartment rental sites like Zillow. Please be aware that there are some apartment complexes that will not allow you to rent an apartment without first visiting it, but there are places that will.
+Most students seemed to have found an apartment by just googling ``apartments in Lincoln'', or looking through apartment rental sites like Zillow. Many apartments have been built in recent years, so it is pretty easy to find one (according to a student, you probably don't even have to start looking until 30-60 days in advance).
+
+Here is the Information Page from Grad Studies about relocating to Lincoln for more helpful information: \url{https://www.unl.edu/gradstudies/admissions/relocate}
 
 If you are interested in finding a roommate:
 
@@ -470,7 +502,11 @@ If you are interested in finding a roommate:
 \item
   University of Nebraska Facebook Page
 \item
+  UNL CSSA (Chinese Student and Scholar Association) - has page on UNL website and a Facebook page.
+\item
   If you are from India, the Indian Student Association (who has a facebook page) can help potentially connect you with a roommate and potential places to live.
+\item
+  Also, there's been multiple instances of people starting off by living alone, then moving in with friends they make in the department. So that may be an option later.
 \end{itemize}
 
 \hypertarget{furniture}{%
@@ -483,11 +519,15 @@ If you are in need of some new/used furniture, here are some recommendations:
 \item
   Facebook marketplace
 \item
+  OfferUp is a good app to find used furniture.
+\item
   UNL CSSA Facebook Page
 \item
   UNL Buy and Sell Facebook Page
 \item
   Goodwill
+\item
+  Ernie's in Ceresco
 \item
   Craigslist
 \item
@@ -554,18 +594,26 @@ We have surveyed the students within the department and asked them to provide so
 \begin{itemize}
 \tightlist
 \item
+  The Bay
+\item
   The Coffee House
+\item
+  Crescent Moon
 \item
   Cultiva
 \item
-  The Mill
+  Destinations Coffee House
 \item
-  Mojava
+  The Mill (multiple locations around Lincoln)
+\item
+  Mo Java
 \item
   The Rabbit Hole Bakery
+\item
+  Rock `n' Joe Coffee Bar
 \end{itemize}
 
-Located on East Campus there is a Starbucks in the East Campus Union. On City Campus there is a Dunkin' Donuts in the Adele Hall Learning Commons and a Starbucks in the City Campus Union
+Located on East Campus there is a Starbucks in the East Campus Union and a Duckin Donuts in the East Campus Library. On City Campus there is a Dunkin' Donuts in the Adele Hall Learning Commons and a Starbucks in the City Campus Union
 
 \hypertarget{food-and-drinks}{%
 \subsection{Food and Drinks:}\label{food-and-drinks}}
@@ -573,7 +621,13 @@ Located on East Campus there is a Starbucks in the East Campus Union. On City Ca
 \begin{itemize}
 \tightlist
 \item
-  Astoria or Persis (in Omaha) - better than any Lincoln Indian resturant
+  Asian Taste Thai Restaurant
+\item
+  Astoria or Persis (in Omaha) - apparently Astoria isn't good anymore, but just going to keep it on the list.
+\item
+  Bagels and Joe
+\item
+  Blue Sushi
 \item
   Boiler Brewing Company (taproom - good for drinks)
 \item
@@ -583,15 +637,29 @@ Located on East Campus there is a Starbucks in the East Campus Union. On City Ca
 \item
   El Potrero (Mexican)
 \item
+  Catalyst
+\item
   Chick-fil-a
 \item
   Chili's
 \item
   Chipotle
 \item
+  Chopsticks
+\item
+  Cooks Cafe
+\item
   The Copper Kettle (Place to get Moscow Mules)
 \item
+  Desi Bites (Indian Restaurant in Omaha)
+\item
+  The Eatery
+\item
   Fattoush (Arabic Restuarant that serves a good kebab)
+\item
+  Fire Engine Cafe (brunch)
+\item
+  Good Evans
 \item
   HF Crave
 \item
@@ -599,35 +667,57 @@ Located on East Campus there is a Starbucks in the East Campus Union. On City Ca
 \item
   HopCat (Good drink place and has great fries)
 \item
+  The Hub
+\item
   Issara
 \item
   Kinkaider (taproom - good for drinks)
-\item
-  Subway
-\item
-  Panda Express
 \item
   Kurry Xpress
 \item
   Lazlo's
 \item
+  Lazzari - pizza
+\item
   Leadbelly
+\item
+  Lincoln's Pub
+\item
+  Mellow Mushroom
 \item
   Mr.~Hui's
 \item
+  Muchachos
+\item
+  Old Chicago
+\item
   The Oven (Indian)
+\item
+  Panda Express
 \item
   Panera
 \item
   Penelope's Lil Cafe
 \item
+  Piedmont Bistro
+\item
   Qdoba
+\item
+  Risky's bar - lots of pool tables, decent food selection.
+\item
+  Rodizo Grill
 \item
   Runza (Nebraskan fast food chain)
 \item
   Sandy's (Here can play pool and darts with some cheap drinks, they also used to have Tuesday karaoke nights)
 \item
+  Starlite Lounge
+\item
+  Subway
+\item
   Sultan's Kite (Mediterranean)
+\item
+  Taj Ali
 \item
   Tavern on the Square (drink place)
 \item
@@ -638,10 +728,12 @@ Located on East Campus there is a Starbucks in the East Campus Union. On City Ca
   Valentino's (Nebraskan Pizza Chain)
 \item
   Vincenzos (Italian)
+\item
+  9th Street Chargrill
 \end{itemize}
 
-\hypertarget{night-life}{%
-\section{Night Life}\label{night-life}}
+\hypertarget{night-life-lincolns-version-of-night-life}{%
+\section{Night Life (Lincoln's version of night life)}\label{night-life-lincolns-version-of-night-life}}
 
 \begin{itemize}
 \tightlist
@@ -664,13 +756,15 @@ If you are a TA, the advice I was given on my tour was if you were worried about
 \begin{itemize}
 \item Nebraska Cornhuskers
 \begin{itemize}
-\item Nebraska does not have any professional sports teams, so the locals tend to be pretty crazed for all things Huskers. I would not recommend trying to study on City Campus while there is a football game happening as there will be lots of people and no place to park
-\item Most home sporting events at UNL are free with your student ID. This includes baseball, softball, track and field, gymnastics, women's basketball, women's soccer, and wrestling. Please see the athletic departments website (linked below) for a full list of sports and their schedules. Sometimes will give away free items, like tshirts. 
+\item Nebraska does not have any major league professional sports teams, so the locals tend to be pretty crazed for all things Huskers. I would not recommend trying to study on City Campus while there is a football game happening as there will be lots of people and no place to park
+\item Most home sporting events at UNL are free. Since COVID, you still have to go through the ticket portal to reserve a ticket, but there's nothing to pay). This includes baseball, softball, track and field, gymnastics, women's basketball, women's soccer, and wrestling. Please see the athletic departments website (linked below) for a full list of sports and their schedules. Sometimes will give away free items, like tshirts. 
 \item Football, Men's Basketball and Volleyball are the three sports that you have to have student season tickets for. Typically information for securing student tickets goes out during the spring semester before the next academic school year. If you are unable to secure student season tickets or don't want to commit to a full season, check out The Iron N Student Ticket Exchange Facebook group. This is a place where students can sell a single game ticket if they are unable to attend. The ticket tab on the athletic department website will lead you to the student ticket portal where you would need to create an account to buy tickets and accept transferred tickets from another student. I recommend trying to attend a football game or volleyball game at least once while you are here even if you aren't a huge sports fan. It is defintely a Nebraskan cultural experience and great for people-watching! The volleyball team is typically ranked within the top 10 nationally and won a national championship in 2017. The football team is just trying to have a winning season at this point, but the games are still fun to attend. 
 \item Athletic Website: \href{https://huskers.com}{huskers.com}
+\item Student Ticket Information: https://huskers.com/sports/2019/7/25/student-ticket-central.aspx
 \end{itemize}
-\item Lincoln Saltdogs: A member of the South Division of the American Association of Independent Professional Baseball
-\item Omaha Stormchasers: Triple-A affliate of the Kansas City Royals. About a 45 minute drive from Campus but typically have fun theme nights. For Sunday home games you can sit in the grass for free if you bring 3 nonperishable Hyvee-labeled food items
+\item Lincoln Saltdogs: A member of the South Division of the American Association of Independent Professional Baseball (https://saltdogs.com/)
+\item Omaha Stormchasers: Triple-A affliate of the Kansas City Royals. About a 45 minute drive from Campus but typically have fun theme nights. For Sunday home games you can sit in the grass for free if you bring 3 nonperishable Hyvee-labeled food items (https://www.milb.com/omaha/)
+\item Union Omaha Soccer: Member of the USL League One, which is an United States Soccer Federation sanctioned Division III league. They won the USL League One championship in 2021 (https://www.unionomaha.com/).
 \item Lincoln and Omaha also tend to host random sporting events throughout the year, so if you are interested be on the lookout for those. The Men's College World Series is held in Omaha each June, and even if you can't get into the game the beer gardens around the stadium can be fun. 
 \end{itemize}
 
@@ -682,13 +776,25 @@ If you are a TA, the advice I was given on my tour was if you were worried about
 \item
   Any of the lakes or parks (for example Holmes Lake)
 \item
-  Bike Trails
+  Bike Trails (lots of bike trails around Lincoln - there is one that goes close to campus if you ever wanted to bike to campus)
 \item
   There are a few state parks within a 30 minute drive of Lincoln (for example, Branched Oak, Mahoney and Platte River) that have trails, camping and other activities.
 \item
   Pioneer's Park Nature Center
 \item
-  Farmer's Markets (there is one in the Haymarket then tends to run from like May to October, google it to find more info)
+  Farmer's Markets (downtown Saturdays, Union College Sundays, Fallbrook Thursdays - typically over the summer months, google for more info)
+\item
+  Lincoln Bridge in the Haymarket for sunsets
+\item
+  If you enjoy running - The Goodlife Halfsy
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \url{https://www.goodlifehalfsy.com/}
+  \end{itemize}
+\item
+  Hanging out in the Maxwell Aboretum (located on East Campus)
 \end{itemize}
 
 \hypertarget{other-activities}{%
@@ -697,11 +803,11 @@ If you are a TA, the advice I was given on my tour was if you were worried about
 \begin{itemize}
 \tightlist
 \item
-  Marcus Movie Theater on P Street
+  Marcus Movie Theater on P Street (has a student day each week for discounted tickets)
 \item
   Nebraska Crossing Outlets: About a 35 minute drive from Lincoln and tends to have pretty good deals, especially around holiday weekends.
 \item
-  Shows at the Lied Performing Arts Center
+  Shows at the Lied Performing Arts Center (free tickets for students for many shows - sold at the start of each semester)
 \item
   Ice Skating at John Breslow Hockey Center
 \item
@@ -713,16 +819,42 @@ If you are a TA, the advice I was given on my tour was if you were worried about
 \item
   Attending Indian Festivals
 \item
+  Jazz in June (\url{http://jazzinjune.com/})
+\item
   Concerts: Pinnancle Bank Arena and the CHI Health Center (Omaha) for bigger artists. Smaller venues include The Bourbon Theater, The Waiting Room (Omaha), and The Slowdown (Omaha)
 \item
   The Campus Rec Centers on both East Campus and City Campus
 \item
+  Outdoor Adventure Center on City Campus (Has a rock climbing wall)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \url{https://crec.unl.edu/outdoor}
+  \item
+    Can also rent things like tents from here if you ever wanted to go camping for a weekend.
+  \end{itemize}
+\item
+  MW Climbing - rock climbing gym (\url{https://www.mwclimbing.com/})
+\item
   Monthly Happy Hours with the STAT GSA!!! (shameless plug) - check your emails
+\item
+  Nerd Nite - Monthly event featuring fun talks about different topics and drinks
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Facebook Page: \url{https://www.facebook.com/groups/905951432852800}
+  \end{itemize}
 \item
   Additionally, the university tends to send out weekly emails that has activities (both on and off campus), so those are always good things to scan through as well.
 \item
   Also many activities in Omaha like Top Golf and the Henry Doorly Zoo
+\item
+  One of my personal favorites is the Taste of Omaha Festival that tends to happen in June. Essentially just a food festival with only local Omaha businesses. Has live mustic and lots of food and drinks!
 \end{itemize}
+
+Sometimes it can be difficult to find things to do in Lincoln (especially depending on how large of a city you are moving in from), so may need to be intentional about looking and somtimes may have to make your own fun!
 
 \hypertarget{social-media-pages-to-follow}{%
 \section{Social Media Pages to Follow}\label{social-media-pages-to-follow}}
@@ -733,6 +865,8 @@ What are some social media pages you follow to get information about events happ
 \tightlist
 \item
   DowntownLincoln on Twitter
+\item
+  r/Lincoln on Reddit
 \item
   UNL Graduation Studies
 \item
@@ -801,6 +935,14 @@ What is one good tip you were given prior to Grad School?
   ``Make sure to allocate proper time for sleep (ie. choose sleep over cramming)''
 \item
   ``Have a personal life. It's healthy to have a balance!''
+\item
+  ``Grad school is a team sport. Work together, learn more.''
+\item
+  ``Treat it like a job, go into the office during the workday. Just be around and you will make connections.''
+\item
+  ``Form a habit to search and read related paper by yourself''
+\item
+  ``Ask people to hang out. It's easy to be lonely.''
 \end{itemize}
 
 What is something you wish you had known before moving to Lincoln and beginning graduate school?
@@ -827,6 +969,26 @@ What is something you wish you had known before moving to Lincoln and beginning 
   ``Get creative with your coursework and projects. Take classes in the computer science, or economics department. Don't just stick with the normal classes. Go above and beyond.''
 \item
   ``This experience is what you make of it. If you don't put in the work to get to know your fellow students and faculty, and attend events hosted by either the gsa or department, the experience probably won't be as fun. It's also a chance to network with people who will be your peers.''
+\item
+  ``Make time to prioritize fun activities during grad school. Lincoln is a nice sized town with a lot to do - seek it out!''
+\item
+  ``Bring more thick clothes like down jacket, winter in Lincoln can be very cold''
+\item
+  ``The wind is strong''
+\item
+  ``I wish I had known that working with others would become commonplace. It's honestly been a difficult transition for me. Also, Lincoln can be difficult to find stuff to do at times, in my opinion.''
+\item
+  ``Grades are irrelevant (learning is more important), it's a better use of time to work on more projects than spend time on improving grades.''
+\item
+  ``Advisor shop - go talk to a handful of professors about their research and potential projects before selecting an advisor. Find someone who fits both your interests and personality.''
+\item
+  ``Introduce yourself to people and make friends. Everyone is very friendly.''
+\item
+  ``If you are coming from Asia, buy Casella and Berger at home before coming to the US. Wayyy cheaper.''
+\item
+  ``Join the American Statistical Association and find the community threads that are of interest to you. This is how you will make a lot of connections.''
 \end{itemize}
+
+This was touched upon above, but no matter if you plan on just getting a Master's or getting the PhD, it is important to find an advisor. This isn't something you need to do right away, but I would try and find one by the end of your first year, as this will help make sure you are doing everything you need to do in order to graduate and be successful after graduation. So during your first semester, I would try and talk to a bunch of different professors about their research interests so you can pinpoint one that has research you are interested in and you can work with well. Sounds scary, but will be very helpful to do in the long run.
 
 \end{document}

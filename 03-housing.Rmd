@@ -7,7 +7,7 @@ Lincoln, Nebraska has a great selection of housing. Below is a list of locations
 Within walking distance of the department (East Campus)
 
 - No name: 3331 Holdrege St
-    - Can’t find contact, but if you google it, a handful of apartment finder websites pop up.
+    - Contact: Brian Craft at <Brian@rentbhg.com> (can also google, and things should pop up)
 - 3405 Holdrege Street, Shack LLC, owned by Beth Gaylord (Very Clean apartments, 2 mins walk to the department) 
     - https://www.apartmenthomeliving.com/apartment-finder/Shacks-LLC-Lincoln-NE-68503-5917259
 - There are a handful of apartments along Holdrege Street all within walking distance or easily hop on a bus directly to the department, they don’t really have names, but you can draw a polygon on this website and see what is available within this distance.
@@ -18,7 +18,7 @@ Within walking distance of the department (East Campus)
 Nearby East Campus (Could walk, but might be a little longer walk)
 
 - Square at 48 (there is a bus directly from here to the department)
-    - http://www.square48.com/
+    - https://www.squareat48.com/
 - Ashley Square Apartments (Easy walk, but might be chilly in the winter)
     - https://www.apartmentguide.com/apartments/Nebraska/Lincoln/Ashley-Square/22090/
 - Another polygon area which you could easily bus from 
@@ -27,13 +27,21 @@ Nearby East Campus (Could walk, but might be a little longer walk)
 Not within walking distance of the department, but nearby (East Campus)
 
 - Chateau Development (there is a bus within walking distance of their Trailview Campus from here to the department)
-    - https://www.chateaudev.com/search?beds=bed-1&baths=bath-1&rentMax=850
+    - https://www.chateaudev.com/
 - Tanglewood (No bus directly to East Campus, bus goes directly to City Campus only)
     - https://www.richdale.apartments/tanglewood-apartments-1/index.aspx?utm_knock=g
 - Lions Gate (No bus directly to East Campus, bus goes directly to City Campus only)
     - https://www.richdale.apartments/lionsgate-apartments/index.aspx?utm_knock=g
 - The Flats at Leighton District
     - https://www.ldflats.com/
+- Cheever Apartments
+    - https://www.cheeverproperties.com/cheever-apartments/index.aspx
+- The Fairways at Lincoln
+    - https://www.hpifairwayslincoln.com/
+- The 50/50 - seems to be college living not associated with the university (and seemingly nicer apartments). You'll get assigned roommates if you don't have them already. 
+    - https://www.the50-50.com/
+- Telegraph Distict (new and fancy, but Allo internet included in the rent)
+    - https://www.telegraphdistrict.com/
 
 Other possible companies to contact
 
@@ -41,16 +49,18 @@ Other possible companies to contact
 -	Rental Real Estate
 -	Century Sales and Management
 - WRK Real Estate (35 East close to campus and Canopy Lofts downtown)
-- Telegraph Distict (new and fancy, but Allo internet included in the rent)
-    - https://www.telegraphdistrict.com/
 
-Most students seemed to have found an apartment by just googling "apartments in Lincoln", or looking through apartment rental sites like Zillow. Please be aware that there are some apartment complexes that will not allow you to rent an apartment without first visiting it, but there are places that will. 
+Most students seemed to have found an apartment by just googling "apartments in Lincoln", or looking through apartment rental sites like Zillow. Many apartments have been built in recent years, so it is pretty easy to find one (according to a student, you probably don't even have to start looking until 30-60 days in advance). 
+
+Here is the Information Page from Grad Studies about relocating to Lincoln for more helpful information: https://www.unl.edu/gradstudies/admissions/relocate
 
 If you are interested in finding a roommate:
 
 - Reach out to one of the Stat GSA officers and we will send out a message to see if any current students are looking for a roommate. Not gauranteed, but we will do our best to help connect you.
 - University of Nebraska Facebook Page
+- UNL CSSA (Chinese Student and Scholar Association) - has page on UNL website and a Facebook page.
 - If you are from India, the Indian Student Association (who has a facebook page) can help potentially connect you with a roommate and potential places to live. 
+- Also, there's been multiple instances of people starting off by living alone, then moving in with friends they make in the department. So that may be an option later.  
 
 
 ## Furniture
@@ -58,9 +68,11 @@ If you are interested in finding a roommate:
 If you are in need of some new/used furniture, here are some recommendations:
 
 - Facebook marketplace
+- OfferUp is a good app to find used furniture.
 - UNL CSSA Facebook Page
 - UNL Buy and Sell Facebook Page
 - Goodwill
+- Ernie's in Ceresco
 - Craigslist
 - Walmart
 - Target

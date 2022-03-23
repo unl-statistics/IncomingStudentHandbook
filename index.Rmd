@@ -1,5 +1,5 @@
 --- 
-title: "Incoming Graduate Students"
+title: "Incoming Graduate Students Info Packet"
 subtitle: "Department of Statistics, University of Nebraska - Lincoln"
 author: "Statistics Graduate Student Association"
 date: "`r Sys.Date()`"
@@ -19,7 +19,7 @@ description: "This is a document aimed to provide useful information to incoming
 
 # Welcome
 
-As current statistics graduate students at University of Nebraska, Lincoln, we wanted to welcome you to the department. We hope this document is useful as you prepare to move to Lincoln and/or start graduaute school this upcoming Fall. 
+As current statistics graduate students at University of Nebraska, Lincoln, we wanted to welcome you to the department. We hope this document is useful as you prepare to move to Lincoln and/or start graduate school this upcoming Fall. 
 
 - Department Website: *https://statistics.unl.edu/*
 
@@ -36,6 +36,8 @@ If you have other questions, the Statistics Graduate Student Association (GSA) w
     - *rachel.rogers@huskers.unl.edu*
 - Oliver Titus (Treasurer)
     - *otitus2@huskers.unl.edu*
+    
+Additionally, if you wanted to familiarize yourself with some of the faculty members, you many find the list at https://statistics.unl.edu/meet-faculty, with links to bios. 
 
 We look forward to meeting you!
 

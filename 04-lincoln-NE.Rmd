@@ -4,51 +4,77 @@ We have surveyed the students within the department and asked them to provide so
 
 ## Restaurants
 ### Coffeeshops:
+- The Bay
 - The Coffee House
+- Crescent Moon
 - Cultiva
-- The Mill
-- Mojava
+- Destinations Coffee House
+- The Mill (multiple locations around Lincoln)
+- Mo Java
 - The Rabbit Hole Bakery
+- Rock 'n' Joe Coffee Bar
 
-Located on East Campus there is a Starbucks in the East Campus Union. On City Campus there is a Dunkin' Donuts in the Adele Hall Learning Commons and a Starbucks in the City Campus Union
+Located on East Campus there is a Starbucks in the East Campus Union and a Duckin Donuts in the East Campus Library. On City Campus there is a Dunkin' Donuts in the Adele Hall Learning Commons and a Starbucks in the City Campus Union
 
 
 ### Food and Drinks:
-- Astoria or Persis (in Omaha) - better than any Lincoln Indian resturant
+- Asian Taste Thai Restaurant
+- Astoria or Persis (in Omaha) - apparently Astoria isn't good anymore, but just going to keep it on the list. 
+- Bagels and Joe
+- Blue Sushi
 - Boiler Brewing Company (taproom - good for drinks)
 - Buzzard Billy's
 - El Chaparro (Mexican)
 - El Potrero (Mexican)
+- Catalyst
 - Chick-fil-a
 - Chili's
 - Chipotle
+- Chopsticks
+- Cooks Cafe 
 - The Copper Kettle (Place to get Moscow Mules)
+- Desi Bites (Indian Restaurant in Omaha)
+- The Eatery
 - Fattoush (Arabic Restuarant that serves a good kebab)
+- Fire Engine Cafe (brunch)
+- Good Evans
 - HF Crave
 - Honest Abes (Lincoln burger chain)
 - HopCat (Good drink place and has great fries)
+- The Hub
 - Issara
 - Kinkaider (taproom - good for drinks)
-- Subway
-- Panda Express
 - Kurry Xpress
 - Lazlo's
+- Lazzari - pizza
 - Leadbelly
+- Lincoln's Pub
+- Mellow Mushroom
 - Mr. Hui's
+- Muchachos
+- Old Chicago
 - The Oven (Indian)
+- Panda Express
 - Panera
 - Penelope's Lil Cafe
+- Piedmont Bistro
 - Qdoba
+- Risky's bar - lots of pool tables, decent food selection.
+- Rodizo Grill
 - Runza (Nebraskan fast food chain)
 - Sandy's (Here can play pool and darts with some cheap drinks, they also used to have Tuesday karaoke nights)
+- Starlite Lounge
+- Subway
 - Sultan's Kite (Mediterranean)
+- Taj Ali
 - Tavern on the Square (drink place)
 - The Watering Hole
 - Tia Lety
 - Valentino's (Nebraskan Pizza Chain)
 - Vincenzos (Italian)
+- 9th Street Chargrill
 
-## Night Life
+## Night Life (Lincoln's version of night life)
 - The Railyard: Across the street from Pinancle Bank Arena and has typically has live music on the weekends and watch parties for certain sporting events. Turns into an outdoor ice skating rink in the winter. Many events are hosted around here in the summer. 
 - The Haymarket: bar and restaurant district
 - Many other bars on O and P street. 
@@ -61,37 +87,53 @@ If you are a TA, the advice I was given on my tour was if you were worried about
 \begin{itemize}
 \item Nebraska Cornhuskers
 \begin{itemize}
-\item Nebraska does not have any professional sports teams, so the locals tend to be pretty crazed for all things Huskers. I would not recommend trying to study on City Campus while there is a football game happening as there will be lots of people and no place to park
-\item Most home sporting events at UNL are free with your student ID. This includes baseball, softball, track and field, gymnastics, women's basketball, women's soccer, and wrestling. Please see the athletic departments website (linked below) for a full list of sports and their schedules. Sometimes will give away free items, like tshirts. 
+\item Nebraska does not have any major league professional sports teams, so the locals tend to be pretty crazed for all things Huskers. I would not recommend trying to study on City Campus while there is a football game happening as there will be lots of people and no place to park
+\item Most home sporting events at UNL are free. Since COVID, you still have to go through the ticket portal to reserve a ticket, but there's nothing to pay). This includes baseball, softball, track and field, gymnastics, women's basketball, women's soccer, and wrestling. Please see the athletic departments website (linked below) for a full list of sports and their schedules. Sometimes will give away free items, like tshirts. 
 \item Football, Men's Basketball and Volleyball are the three sports that you have to have student season tickets for. Typically information for securing student tickets goes out during the spring semester before the next academic school year. If you are unable to secure student season tickets or don't want to commit to a full season, check out The Iron N Student Ticket Exchange Facebook group. This is a place where students can sell a single game ticket if they are unable to attend. The ticket tab on the athletic department website will lead you to the student ticket portal where you would need to create an account to buy tickets and accept transferred tickets from another student. I recommend trying to attend a football game or volleyball game at least once while you are here even if you aren't a huge sports fan. It is defintely a Nebraskan cultural experience and great for people-watching! The volleyball team is typically ranked within the top 10 nationally and won a national championship in 2017. The football team is just trying to have a winning season at this point, but the games are still fun to attend. 
 \item Athletic Website: \href{https://huskers.com}{huskers.com}
+\item Student Ticket Information: https://huskers.com/sports/2019/7/25/student-ticket-central.aspx
 \end{itemize}
-\item Lincoln Saltdogs: A member of the South Division of the American Association of Independent Professional Baseball
-\item Omaha Stormchasers: Triple-A affliate of the Kansas City Royals. About a 45 minute drive from Campus but typically have fun theme nights. For Sunday home games you can sit in the grass for free if you bring 3 nonperishable Hyvee-labeled food items
+\item Lincoln Saltdogs: A member of the South Division of the American Association of Independent Professional Baseball (https://saltdogs.com/)
+\item Omaha Stormchasers: Triple-A affliate of the Kansas City Royals. About a 45 minute drive from Campus but typically have fun theme nights. For Sunday home games you can sit in the grass for free if you bring 3 nonperishable Hyvee-labeled food items (https://www.milb.com/omaha/)
+\item Union Omaha Soccer: Member of the USL League One, which is an United States Soccer Federation sanctioned Division III league. They won the USL League One championship in 2021 (https://www.unionomaha.com/).
 \item Lincoln and Omaha also tend to host random sporting events throughout the year, so if you are interested be on the lookout for those. The Men's College World Series is held in Omaha each June, and even if you can't get into the game the beer gardens around the stadium can be fun. 
 \end{itemize}
 
 ### Outdoor Activities: 
 - Any of the lakes or parks (for example Holmes Lake)
-- Bike Trails 
+- Bike Trails (lots of bike trails around Lincoln  - there is one that goes close to campus if you ever wanted to bike to campus)
 - There are a few state parks within a 30 minute drive of Lincoln (for example, Branched Oak, Mahoney and Platte River) that have trails, camping and other activities. 
 - Pioneer's Park Nature Center
-- Farmer's Markets (there is one in the Haymarket then tends to run from like May to October, google it to find more info)
+- Farmer's Markets (downtown Saturdays, Union College Sundays, Fallbrook Thursdays - typically over the summer months, google for more info)
+- Lincoln Bridge in the Haymarket for sunsets
+- If you enjoy running - The Goodlife Halfsy
+    - https://www.goodlifehalfsy.com/
+- Hanging out in the Maxwell Aboretum (located on East Campus)
 
 ### Other Activities:
-- Marcus Movie Theater on P Street
+- Marcus Movie Theater on P Street (has a student day each week for discounted tickets)
 - Nebraska Crossing Outlets: About a 35 minute drive from Lincoln and tends to have pretty good deals, especially around holiday weekends. 
-- Shows at the Lied Performing Arts Center
+- Shows at the Lied Performing Arts Center (free tickets for students for many shows - sold at the start of each semester)
 - Ice Skating at John Breslow Hockey Center
 - Roller Skating Museum (just go once! haha)
 - Capitol Building
 - Children's Museum
 - Attending Indian Festivals
+- Jazz in June (http://jazzinjune.com/)
 - Concerts: Pinnancle Bank Arena and the CHI Health Center (Omaha) for bigger artists. Smaller venues include The Bourbon Theater, The Waiting Room (Omaha), and The Slowdown (Omaha)
 - The Campus Rec Centers on both East Campus and City Campus
+- Outdoor Adventure Center on City Campus (Has a rock climbing wall)
+    - https://crec.unl.edu/outdoor
+    - Can also rent things like tents from here if you ever wanted to go camping for a weekend. 
+- MW Climbing - rock climbing gym (https://www.mwclimbing.com/)
 - Monthly Happy Hours with the STAT GSA!!! (shameless plug) - check your emails
+- Nerd Nite - Monthly event featuring fun talks about different topics and drinks
+    - Facebook Page: https://www.facebook.com/groups/905951432852800
 - Additionally, the university tends to send out weekly emails that has activities (both on and off campus), so those are always good things to scan through as well.
 - Also many activities in Omaha like Top Golf and the Henry Doorly Zoo
+- One of my personal favorites is the Taste of Omaha Festival that tends to happen in June. Essentially just a food festival with only local Omaha businesses. Has live mustic and lots of food and drinks!
+
+Sometimes it can be difficult to find things to do in Lincoln (especially depending on how large of a city you are moving in from), so may need to be intentional about looking and somtimes may have to make your own fun!   
 
 
 ## Social Media Pages to Follow
@@ -99,5 +141,6 @@ If you are a TA, the advice I was given on my tour was if you were worried about
 What are some social media pages you follow to get information about events happening on campus and/or in Lincoln?
 
 - DowntownLincoln on Twitter
+- r/Lincoln on Reddit
 - UNL Graduation Studies
 - UNL New Student Involvement
